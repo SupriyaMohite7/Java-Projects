@@ -5,7 +5,7 @@
 @ @ @ @
 
  */
-package com.demo.pattern;
+package com.pattern;
 
 public class P1C {
 

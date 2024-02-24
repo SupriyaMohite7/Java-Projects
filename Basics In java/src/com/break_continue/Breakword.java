@@ -1,4 +1,4 @@
-package com.demo.break_continue;
+package com.break_continue;
 
 public class Breakword {
 

@@ -1,4 +1,4 @@
-package com.demo.methoddemo;
+package com.methoddemo;
 
 import java.util.Scanner;
 

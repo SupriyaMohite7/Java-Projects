@@ -1,5 +1,5 @@
 //WAP to print odd numbers from 521 to 229 using while loop. 
-package com.demo.whileloop;
+package com.whileloop;
 
 public class Assi2 {
 

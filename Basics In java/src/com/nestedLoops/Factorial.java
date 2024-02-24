@@ -1,4 +1,4 @@
-package com.demo.nestedLoops;
+package com.nestedLoops;
 
 public class Factorial {
 

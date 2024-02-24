@@ -1,4 +1,4 @@
-package com.demo.dowhileLoop;
+package com.dowhileLoop;
 
 public class Print_Numbers {
 

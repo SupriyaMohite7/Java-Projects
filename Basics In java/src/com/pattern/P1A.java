@@ -4,7 +4,7 @@
 1 1 1
 1 1 1 1
 */
-package com.demo.pattern;
+package com.pattern;
 
 public class P1A {
 

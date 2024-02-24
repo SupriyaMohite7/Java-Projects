@@ -1,4 +1,4 @@
-package com.demo.whileloop;
+package com.whileloop;
 
 public class Assi9 {
 

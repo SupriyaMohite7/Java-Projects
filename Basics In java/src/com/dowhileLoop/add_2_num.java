@@ -1,4 +1,4 @@
-package com.demo.dowhileLoop;
+package com.dowhileLoop;
 
 import java.util.Scanner;
 
