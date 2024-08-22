@@ -4,7 +4,6 @@ class Bank
 	int rate=7;
 	void display()
 	{
-		
 		System.out.println("rate of interest : "+rate+"%");
 	}
 }

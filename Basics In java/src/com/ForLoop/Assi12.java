@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class Assi12 {
 
-	static int n=0;
-	public static void table()
+	public static void table(int n)
 	{
 		for(int i=1;i<=10;i++)
 		{
@@ -18,8 +17,8 @@ public class Assi12 {
 
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter number :");
-		n=sc.nextInt();
-		table();
+		int n=sc.nextInt();
+		table(n);
 	}
 
 }

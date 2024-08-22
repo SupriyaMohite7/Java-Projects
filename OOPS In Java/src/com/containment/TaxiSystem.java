@@ -54,7 +54,7 @@ public class TaxiSystem {
 		TaxiSystem t=new TaxiSystem();
 		t.enterDetails(c2, d2);
 		
-System.out.println(c2);
+		System.out.println(c2);
 			}
 
 }

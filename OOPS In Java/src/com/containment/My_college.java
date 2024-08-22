@@ -23,9 +23,9 @@ public class My_college {
 		Student s4=new Student(4,"Ramesh",c2);
 		Student s5=new Student(5,"Suresh",c1);
 		System.out.println(s3);
-		 System.out.println("Hashcode of s3"+s1.getCourse().hashCode());
+		System.out.println("Hashcode of s3"+s1.getCourse().hashCode());
 		System.out.println(s4);
-		 System.out.println("Hashcode of s4"+s1.getCourse().hashCode());
+		System.out.println("Hashcode of s4"+s1.getCourse().hashCode());
 // change value
 		 c1.setFees(10000);
 		 System.out.println(s3);

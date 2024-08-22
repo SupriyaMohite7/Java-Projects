@@ -37,6 +37,7 @@ public class DivideString {
 		String arr[]= {"I","am","very","smart"};
 		System.out.println(Arrays.toString(arr));
 		String st=String.join("", arr);
+		System.out.println(st);
 		int noOfChar=5;
 		divideString(st,noOfChar);
 	}
